@@ -1,37 +1,23 @@
 ---
 layout: archive
-title: "onmedia"
+title: "Popular press"
 permalink: /onmedia/
 author_profile: true
 ---
 
-{% include base_path %}
+## 2023
+#### Los 'antiprohibicionistas' de los móviles responden: "Quitárselo hasta los 14 es peor" 
+<i>El Confidencial</i> (December 2023). 
+https://www.elconfidencial.com/alma-corazon-vida/2023-12-06/antiprohibicionistas-moviles-ninos-quitarselo-peor_3785936/
 
-A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+## 2022
+#### El motivo por el que una socióloga defiende que los padres no quiten los móviles a niños y adolescentes: "Más que limitar, hay que educar"
+<i>La Sexta</i> (January 2022).
+https://www.lasexta.com/programas/la-roca/motivo-que-sociologa-defiende-que-padres-quiten-moviles-ninos-adolescentes-mas-que-limitar-hay-que-educar_2022012361ed8b3e9890160001c3a35e.html
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
 
-{% capture written_label %}'None'{% endcapture %}
-
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+## 2018
+#### Por qué restringir el móvil a tu hijo no es buena idea
+<i>La Vanguardia</i> (February 2018).
+https://www.lavanguardia.com/vida/20180205/44554866125/uso-movil-tecnologias-adolescentes-hijos.html
