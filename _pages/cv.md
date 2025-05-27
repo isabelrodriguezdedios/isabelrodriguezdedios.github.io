@@ -87,7 +87,7 @@ Rodero, E., Mas, L., Larrea, O. **Rodríguez-de-Dios, I.** &amp; de la Mota, C. 
 
 Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2024). The 3D sound power of immersion processing and psychophysiological effects of binaural versus stereo audio stories. _Media Psychology, 27_(5),  715–736. https://doi.org/10.1080/15213269.2023.2281545
 
-**Rodríguez-de-Dios, I.** & González-de-Garay, B. (2024). Motherhood and sexuality in women’s football news: Effects on interest in the article, engagement and perception of the player. _International Journal of Sport Communication_ Advance online publication. https://doi.org/10.1123/ijsc.2024-0156. 
+**Rodríguez-de-Dios, I.** & González-de-Garay, B. (2024). Motherhood and sexuality in women’s football news: Effects on interest in the article, engagement and perception of the player. _International Journal of Sport Communication, 18_(1), 32-46. https://doi.org/10.1123/ijsc.2024-0156 
 
 **Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. T. (2024). Reducing transphobia with the narratives of transgender youTubers. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 18_(5). https://doi.org/10.5817/CP2024-5-2
 
