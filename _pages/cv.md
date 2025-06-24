@@ -282,10 +282,10 @@ https://www.retratsintermitents.cat/
 
 # TEACHING
 ===========
-### Lecturer _Communication Research Methods_ 2022-2024
+### Lecturer _Communication Research Methods_ 2022-2025
 (_Métodos de Investigación en Comunicación_). Bachelor in Audiovisual Communication and Creation, University of Salamanca
-### Supervisor _Master&#39;s and Bachelor&#39; Thesis Dissertations_ 2023
-(2 students) University of Salamanca
+### Supervisor _Master&#39;s and Bachelor&#39; Thesis Dissertations_ 2023, 2024
+(4 students) University of Salamanca
 ### Supervisor _Master&#39;s Thesis Dissertations_ 2022
 (2 students) MSc Strategic Communication and Public Relations, Pompeu Fabra University
 ### Lecturer _Advanced Data Analyses_ 2022
