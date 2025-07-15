@@ -125,6 +125,8 @@ Piñeiro-Naval, V., Igartua, J. J. &amp; **Rodríguez-de-Dios, I.** (2015) La in
 # PUBLICATIONS: Book Chapters
 ===========
 
+**Rodríguez de Dios, I.** (2025). From Scrolling to Learning: Exploring Social Media’s Impact on Academic Performance Among Adolescents and Young People. In R. Molina Carmona, C.J.V. Arnedo, P. Compañ Rosique, F. García Peñalvo, A. García-Holgado, A. (eds), _Proceedings of TEEM 2024. TEEM2024 Lecture Notes in Educational Technology_ (pp. 805-812). Springer. doi:10.1007/978-981-96-5658-5_79
+
 Girbal González, E., Pérez Sabadell, M., Ponce Capdeville, B., **Rodríguez-de-Dios, I.** , &amp; Rodero, E. (2022). La responsabilidad social corporativa en la publicidad de las marcas comerciales durante la pandemia del COVID-19. In _La nueva era comunicativa_. Thomson Reuters-Aranzadi.
 
 Larrea, O., **Rodríguez-de-Dios, I.** , Vinyals-Mirabent, S., &amp; Rodero, E. (2022). &quot;Las referencias de COVID en anuncios marcan la diferencia. Las actitudes de los consumidores hacia los anuncios y el compromiso de las marcas mejoran cuando se conectan con la pandemia&quot;. In _Comunicación y pluralidad en un contexto divergente_. Dykinson
@@ -221,6 +223,10 @@ Piñeiro, V., **Rodríguez, I.** , Igartua, J.J. (2014) _La Comunicación del Pa
 
 # TEACHING AND RESEARCH VISITS
 ============
+
+### Research stay at the Centre for Research and Intervention in Education 2025
+University of Porto (Portugal)
+30/06/2025 – 11/07/2025
 
 ### Teaching stay at the Institute of Communication (Erasmus+) 2024
 Mykolas Romeris University (Lithuania)
