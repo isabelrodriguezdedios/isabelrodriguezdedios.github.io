@@ -76,6 +76,8 @@ Research grant from the Government of Castile and Leon and the European Social F
 
 # PUBLICATIONS: Journal articles
 ===========
+
+
 **Rodríguez-de-Dios, I.**, Blanco-Fernández, V., & Soto-Sanfiel, M. T. (in press). Audiovisual fiction to reduce prejudices against non-binary people. _Media Psychology_. https://doi.org/10.1080/15213269.2026.2614632.
 
 Sáez-Linero, C., **Rodríguez-de-Dios, I.**, & Jiménez-Morales, M. (2025). Swipe or subscribe: Do youth really prefer an ad-free Instagram? _index.comunicación, 15_(1), 125-151. https://doi.org/10.62008/ixc/15/01Pasaro
