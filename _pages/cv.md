@@ -77,8 +77,7 @@ Research grant from the Government of Castile and Leon and the European Social F
 # PUBLICATIONS: Journal articles
 ===========
 
-
-**Rodríguez-de-Dios, I.**, Blanco-Fernández, V., & Soto-Sanfiel, M. T. (in press). Audiovisual fiction to reduce prejudices against non-binary people. _Media Psychology_. https://doi.org/10.1080/15213269.2026.2614632.
+**Rodríguez-de-Dios, I.**, Blanco-Fernández, V., & Soto-Sanfiel, M. T. (2026). Audiovisual fiction to reduce prejudices against non-binary people. _Media Psychology_. https://doi.org/10.1080/15213269.2026.2614632.
 
 Sáez-Linero, C., **Rodríguez-de-Dios, I.**, & Jiménez-Morales, M. (2025). Swipe or subscribe: Do youth really prefer an ad-free Instagram? _index.comunicación, 15_(1), 125-151. https://doi.org/10.62008/ixc/15/01Pasaro
 
@@ -102,9 +101,9 @@ Durántez-Stolle, P., Martínez-Sanz, R., &amp; **Rodríguez-de-Dios, I**. (2022
 
 Rodero, E., Larrea, O., **Rodríguez-de-Dios, I**., Lucas, I. (2022). The Expressive Balance Effect: Perception and Physiological Responses of Prosody and Gestures. _Journal of Language and Social Psychology, 41_(6), 659-684.. https://doi.org/10.1177%2F0261927X221078317
 
-Dalla-Pria, L. &amp; **Rodríguez-de-Dios, I.** (2022). CSR communication on social media: the impact of source and framing on message credibility, corporate reputation and WOM. _Corporate Communications: an International Journal, 27_(3), 543-557. https://doi.org/10.1108/CCIJ-09-2021-0097
+Dalla-Pria, L. & **Rodríguez-de-Dios, I.** (2022). CSR communication on social media: the impact of source and framing on message credibility, corporate reputation and WOM. _Corporate Communications: an International Journal, 27_(3), 543-557. https://doi.org/10.1108/CCIJ-09-2021-0097
 
-Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2021). Competencias de comunicación oral en la educación primaria. _Profesional De La Información, 30_(6). https://doi.org/10.3145/epi.2021.nov.01
+Rodero, E. & **Rodríguez-de-Dios, I.** (2021). Competencias de comunicación oral en la educación primaria. _Profesional De La Información, 30_(6). https://doi.org/10.3145/epi.2021.nov.01
 
 De Coninck **,** D., **Rodríguez-de-Dios, I.** &amp;d&#39;Haenens, L. (2021).The contact hypothesis during the European refugee crisis: Relating quality and quantity of (in)direct intergroup contact to attitudes towards refugees. _Group Processes &amp; Intergroup Relations_, _24_(6), 881-901. https://doi.org/10.1177/1368430220929394
 
@@ -229,6 +228,10 @@ Piñeiro, V., **Rodríguez, I.** , Igartua, J.J. (2014) _La Comunicación del Pa
 # TEACHING AND RESEARCH VISITS
 ============
 
+### Research stay at the Center for research on Children, Adolescents and the Media 2026
+Amsterdam School of Communication Research (ASCoR), University of Amsterdam (The Netherlands)
+12/01/2026 – 23/01/2026
+
 ### Research stay at the Centre for Research and Intervention in Education 2025
 University of Porto (Portugal)
 30/06/2025 – 11/07/2025
@@ -293,9 +296,9 @@ https://www.retratsintermitents.cat/
 
 # TEACHING
 ===========
-### Lecturer _Communication Research Methods_ 2022-2025
+### Lecturer _Communication Research Methods_ 2022-2026
 (_Métodos de Investigación en Comunicación_). Bachelor in Audiovisual Communication and Creation, University of Salamanca
-### Supervisor _Master&#39;s and Bachelor&#39; Thesis Dissertations_ 2023, 2024
+### Supervisor _Master&#39;s and Bachelor&#39; Thesis Dissertations_ 2024, 2025
 (4 students) University of Salamanca
 ### Supervisor _Master&#39;s Thesis Dissertations_ 2022
 (2 students) MSc Strategic Communication and Public Relations, Pompeu Fabra University
