@@ -79,6 +79,10 @@ Research grant from the Government of Castile and Leon and the European Social F
 
 **Rodríguez-de-Dios, I.**, Blanco-Fernández, V., & Soto-Sanfiel, M. T. (2026). Audiovisual fiction to reduce prejudices against non-binary people. _Media Psychology_. https://doi.org/10.1080/15213269.2026.2614632.
 
+Sáez-Linero, C., **Rodríguez-de-Dios, I.**, & Jiménez-Morales, M. (2026). Algorithmic personalisation and social inequality: Youth knowledge and perceptions of bias in digital advertising. _Technology in Society, 26_, 103287. https://doi.org/10.1016/j.techsoc.2026.103287
+
+Rodero, E., Vinyals-Mirabent, S., **Rodríguez-de-Dios, I.**, Larrea, O. (2026). El Modelo de Influencia del Contexto (CIM). Las referencias de contexto en los anuncios marcan la diferencia. _Doxa Comunicación, 43_. https://doi.org/10.31921/doxacom.2801
+
 Sáez-Linero, C., **Rodríguez-de-Dios, I.**, & Jiménez-Morales, M. (2025). Swipe or subscribe: Do youth really prefer an ad-free Instagram? _index.comunicación, 15_(1), 125-151. https://doi.org/10.62008/ixc/15/01Pasaro
 
 Vinyals-Mirabent, S., Rodero, E., **Rodríguez-de-Dios, I.**, & Mas-Manchon, L. (2025). The impact of self-centered factors on skepticism towards CSR claims during large-scale external crises. _Communication & Society_ https://doi.org/10.15581/003.38.1.012
