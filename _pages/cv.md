@@ -128,10 +128,12 @@ Piñeiro-Naval, V., Igartua, J. J. &amp; **Rodríguez-de-Dios, I.** (2015) La in
 **Rodríguez-de-Dios, I.** (2014). Riesgos de la comunicación interactiva en adolescentes: propuesta de alfabetización digital. _Vozes dos Vales_, 6(III).
 
 
-# PUBLICATIONS: Book Chapters
+# PUBLICATIONS: Books and Book Chapters
 ===========
 
 **Rodríguez de Dios, I.** (2025). From Scrolling to Learning: Exploring Social Media’s Impact on Academic Performance Among Adolescents and Young People. In R. Molina Carmona, C.J.V. Arnedo, P. Compañ Rosique, F. García Peñalvo, A. García-Holgado, A. (eds), _Proceedings of TEEM 2024. TEEM2024 Lecture Notes in Educational Technology_ (pp. 805-812). Springer. doi:10.1007/978-981-96-5658-5_79
+
+Bartol Gutiérrez, A., Arroyo Plasencia, B., de Dios Pérez, I., **Rodríguez de Dios, I.**, Rodríguez Escobar, M., Flores Hernández, R., & Gómez Rodríguez, S. (Eds.). (2025). Nuevas voces en la investigación. Aportaciones interdisciplinares en ciencia, cultura y sociedad. Ediciones Universidad de Salamanca. https://doi.org/10.14201/0AQ0389
 
 Girbal González, E., Pérez Sabadell, M., Ponce Capdeville, B., **Rodríguez-de-Dios, I.** , &amp; Rodero, E. (2022). La responsabilidad social corporativa en la publicidad de las marcas comerciales durante la pandemia del COVID-19. In _La nueva era comunicativa_. Thomson Reuters-Aranzadi.
 
