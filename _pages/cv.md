@@ -77,6 +77,9 @@ Research grant from the Government of Castile and Leon and the European Social F
 # PUBLICATIONS: Journal articles
 ===========
 
+
+Rodero, E., **Rodríguez-de-Dios, I.**, & Larrea, O. (2026). Conscious Bias in YouTube Video Evaluations: The Role of Gender and Attire on Effectiveness, Credibility, and Physiological Responses. _Gender Issues, 43_(27). https://doi.org/10.1007/s12147-026-09418-7
+
 **Rodríguez-de-Dios, I.**, Blanco-Fernández, V., & Soto-Sanfiel, M. T. (2026). Audiovisual fiction to reduce prejudices against non-binary people. _Media Psychology_. https://doi.org/10.1080/15213269.2026.2614632.
 
 Sáez-Linero, C., **Rodríguez-de-Dios, I.**, & Jiménez-Morales, M. (2026). Algorithmic personalisation and social inequality: Youth knowledge and perceptions of bias in digital advertising. _Technology in Society, 26_, 103287. https://doi.org/10.1016/j.techsoc.2026.103287
