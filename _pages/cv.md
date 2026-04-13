@@ -264,6 +264,12 @@ Amsterdam School of Communication Research (ASCoR), University of Amsterdam (The
 
 # PARTICIPATION IN RESEARCH PROJECTS
 ============
+
+### Memorias queer en el audiovisual español: representación, autoría y reapropiación 2026-2026
+Research project funded by the University of Salamanca (PIC2-2025-17)
+Principal investigator: Dr. Beatriz González de Garay
+Research team member
+
 ### Transitional characters in entertainment-education narratives designed to reduce prejudice against immigrants: Attributes, boundary conditions and explanatory mechanisms (TRANCHAR) 2022-2026
 Research project funded by Spanish Ministry of Science and Innovation (PID2021-122655NB-I00)
 Principal investigator: Dr. Juan José Igartua
