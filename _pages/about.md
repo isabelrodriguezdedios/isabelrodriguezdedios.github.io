@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Isabel Rodríguez de Dios (she/her), PhD (2018), a **Ramon y Cajal Research Fellow** at the Department of Sociology and Communication at the [University of Salamanca](https://usal.es/) (Spain). In September 2018 I earned a PhD degree with the thesis entitled 'Risks of interactive communication in adolescents. Digital literacy diagnosis and intervention'.
+I am Isabel Rodríguez de Dios (she/her/hers), PhD (2018), a **Ramon y Cajal Research Fellow** at the Department of Sociology and Communication at the [University of Salamanca](https://usal.es/) (Spain). In September 2018 I earned a PhD degree with the thesis entitled 'Risks of interactive communication in adolescents. Digital literacy diagnosis and intervention'.
 
 
 Before joining the University of Salamanca as a Research Fellow, I have been an Assistant Professor at the same university, a Postdoctoral Researcher (Juan de la Cierva-Formación) at [Pompeu Fabra University](https://www.upf.edu/es/) and a lecturer at the [University of Amsterdam](https://www.uva.nl/en). 
