@@ -156,6 +156,8 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 # Conference Papers and Poster Presentations
 ===========
 
+**Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. (2025, May 19-22). Efecto de la Valencia Narrativa en la Ficción Audiovisual sobre la Actitud del Público hacia las Personas No Binarias. [Paper presentation]. X Congreso Internacional de la AE-IC, ‘Comunicar en la incertidumbre’, Pontevedra, Spain.
+
 García-González, M. C. & **Rodríguez-de-Dios, I.** (2025, October 21-24). What are you watching on TikTok? Sociodemographic differences in preferred content types among youth [Paper presentation]. Teem’25 Technological Ecosystems for Enhancing Multiculturality, Salamanca, Spain.
 
 **Rodríguez-de-Dios, I.**, Blanco-Fernández, V., & Soto-Sanfiel, M. (2025, June 12-16). Using Audiovisual Fiction to Reduce Prejudice Against Non-Binary People [Paper presentation]. 75th Annual ICA Conference,, Denver, Colorado (USA).
