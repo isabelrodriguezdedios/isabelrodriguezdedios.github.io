@@ -157,8 +157,9 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 # Conference Papers and Poster Presentations
 ===========
 
+**Rodríguez-de-Dios, I.**, Soto-Sanfiel, M. T., & Blanco-Fernández, V. (2026, June 28–July 2). Audiences’ responses toward non-binary portrayals: Results from an experimental analysis of prejudice reduction [Paper presentation]. IAMCR 2026, Galway, Ireland.
 
-**Rodríguez-de-Dios, I.** & van Oosten, J. M. F. (2026, June 4-8). Social media and moral disengagement: does hate speech exposure on TikTok shape adolescents’ moral identity over time? [Paper presentation]. 76th Annual ICA Conference, Cape Town (South Africa).
+**Rodríguez-de-Dios, I.** & van Oosten, J. M. F. (2026, June 4-8). Social media and moral disengagement: does hate speech exposure on TikTok shape adolescents’ moral identity over time? [Paper presentation]. 76th Annual ICA Conference, Cape Town, South Africa.
 
 Igartua, J. J., Hoeken, H., González-Vázquez, A., **Rodríguez-de-Dios, I.**, Piñeiro-Naval, V., Rodríguez-Contreras, L., & Mediavilla-Lomas, A. (2026, junio 4-8). When Fiction Confronts Prejudice: Designing Persuasive Dialogues to Counter Anti-Immigrant Rumors Through Identification and Insight. [Paper presentation]. 76th Annual ICA Conference, Cape Town (South Africa).
 
