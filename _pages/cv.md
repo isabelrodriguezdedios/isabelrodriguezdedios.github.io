@@ -77,6 +77,7 @@ Research grant from the Government of Castile and Leon and the European Social F
 # PUBLICATIONS: Journal articles
 ===========
 
+García-González, M. C., & **Rodríguez-de-Dios, I.** (2026). Deslizando sin Parar. Scrolling en TikTok y su Relación con la Percepción del Tiempo, el Tipo de Uso y el Bienestar en Jóvenes. _Anuario Electrónico de Estudios en Comunicación Social “Disertaciones”, 19_(2). https://doi.org/10.12804/revistas.urosario.edu.co/disertaciones/a.15709
 
 Rodero, E., **Rodríguez-de-Dios, I.**, & Larrea, O. (2026). Conscious Bias in YouTube Video Evaluations: The Role of Gender and Attire on Effectiveness, Credibility, and Physiological Responses. _Gender Issues, 43_(27). https://doi.org/10.1007/s12147-026-09418-7
 
@@ -155,6 +156,11 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 
 # Conference Papers and Poster Presentations
 ===========
+
+
+**Rodríguez-de-Dios, I.** & van Oosten, J. M. F. (2026, June 4-8). Social media and moral disengagement: does hate speech exposure on TikTok shape adolescents’ moral identity over time? [Paper presentation]. 76th Annual ICA Conference, Cape Town (South Africa).
+
+Igartua, J. J., Hoeken, H., González-Vázquez, A., **Rodríguez-de-Dios, I.**, Piñeiro-Naval, V., Rodríguez-Contreras, L., & Mediavilla-Lomas, A. (2026, junio 4-8). When Fiction Confronts Prejudice: Designing Persuasive Dialogues to Counter Anti-Immigrant Rumors Through Identification and Insight. [Paper presentation]. 76th Annual ICA Conference, Cape Town (South Africa).
 
 **Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. (2026, May 19-22). Efecto de la Valencia Narrativa en la Ficción Audiovisual sobre la Actitud del Público hacia las Personas No Binarias. [Paper presentation]. X Congreso Internacional de la AE-IC, ‘Comunicar en la incertidumbre’, Pontevedra, Spain.
 
@@ -241,67 +247,22 @@ Piñeiro, V., **Rodríguez, I.** , Igartua, J.J. (2014) _La Comunicación del Pa
 
 ### Research stay at the Center for research on Children, Adolescents and the Media 2026
 Amsterdam School of Communication Research (ASCoR), University of Amsterdam (The Netherlands)
-12/01/2026 – 23/01/2026
 
 ### Research stay at the Centre for Research and Intervention in Education 2025
 University of Porto (Portugal)
-30/06/2025 – 11/07/2025
 
 ### Teaching stay at the Institute of Communication (Erasmus+) 2024
 Mykolas Romeris University (Lithuania)
-15/04/2024 – 19/04/2024
 
 ### Research stay at the Antwerp Social Lab 2022
 Antwerp Social Lab and MIOS (Media & ICT in Organisations and Society) research group, University of Antwerp (Belgium)
-25/04/2022 – 30/06/2022
 
 ### Research stay at the Institute for Media Studies 2018
 KU Leuven (Katholieke Universiteit Leuven, Belgium)
-12/02/2018 – 18/05/2018
 
 ### Research stay at the Center for research on Children, Adolescents and the Media 2017
 Amsterdam School of Communication Research (ASCoR), University of Amsterdam (The Netherlands)
-27/02/2017 – 30/06/2017
 
-
-# PARTICIPATION IN RESEARCH PROJECTS
-============
-
-### Memorias queer en el audiovisual español: representación, autoría y reapropiación 2026-2026
-Research project funded by the University of Salamanca (PIC2-2025-17)
-Principal investigator: Dr. Beatriz González de Garay
-Research team member
-
-### Transitional characters in entertainment-education narratives designed to reduce prejudice against immigrants: Attributes, boundary conditions and explanatory mechanisms (TRANCHAR) 2022-2026
-Research project funded by Spanish Ministry of Science and Innovation (PID2021-122655NB-I00)
-Principal investigator: Dr. Juan José Igartua
-Work team member
-### LGBTI+ representation in Spanish serial fiction and its effectiveness in reducing prejudices due to sexual orientation and gender identity (LGBTI+SCREENS). 2020-2024
-_(Representación LGBTI+ en la ficción seriada española y eficacia en la reducción de prejuicios por orientación sexual e identidad de género (LGBTIQ+ PANTALLAS)._ 
-Research project funded by Spanish Ministry of Science and Innovation (PID2019-110351RB-I00)
-Principal investigator: Dr. Maite Soto Sanfiel
-Work team member
-[Website of the project](https://www.lgbtiq-screens.org/)
-### Prosody variations for improving the cognitive response and the communicative interaction between Alzheimer patients and their caregivers 2018-2021
-(_Variaciones prosódicas para mejorar la respuesta cognitiva y la interacción comunicativa de los enfermos de Alzheimer con sus cuidadores_). 
-Research project funded by the Spanish Ministry of Economy and Competitiveness (CSO2017-83432-R).
-Principal investigator: Dr. Emma Rodero
-Work team member
-### &quot;If you want, you can quit.&quot; Narrative tools for smoking prevention in adults. Effects of similarity with the audience and narrative voice 2018-2020
-(&quot;_Si tú quieres, puedes dejarlo&quot;._ _Herramientas narrativas para la prevención del tabaquismo en fumadores adultos. Efectos de la similitud con la audiencia y la voz narrativa_). 
-Research project funded by the Department of Education of the Regional Government of Castile and Leon (SA032G18).
-Principal investigator: Dr. Juan José Igartua
-Research team member
-### Narrative tools to reduce prejudice. Effects of similarity, imagined contact, empathy and narrative voice 2016-2019
-_(Herramientas narrativas para reducir el prejuicio. Efectos de la similitud, el contacto imaginado, la empatía y la voz narrativa (HENAR))._ 
-Research project funded by Spanish Ministry of Economy and Competitiveness (CSO2015-67611-P)
-Principal investigator: Dr. Juan José Igartua
-Work team member
-### Cultural Heritage in the Digital Society. A Study of Dissemination through the Internet 2013-2015
-(_El Patrimonio Cultural en la Sociedad Digital. Un estudio de su difusión a través de internet_). 
-Research project funded by Fundación del Patrimonio Histórico de Castilla y León.
-Principal investigator: Valeriano Piñeiro Naval
-Work team member
 
 # RESEARCH DISSEMINATION
 ===========
@@ -311,46 +272,16 @@ Podcast about LGBTIQA+ media representation.
 Funded by FCRI (Fundació Catalana per a la Recerca i la Innovació; Convocatòria Joan Oró 2022)
 https://www.retratsintermitents.cat/
 
-# TEACHING
+# SUPERVISION
 ===========
-### Lecturer _Communication Research Methods_ 2022-2026
-(_Métodos de Investigación en Comunicación_). Bachelor in Audiovisual Communication and Creation, University of Salamanca
-### Supervisor _Master&#39;s and Bachelor&#39; Thesis Dissertations_ 2024, 2025
-(4 students) University of Salamanca
-### Supervisor _Master&#39;s Thesis Dissertations_ 2022
-(2 students) MSc Strategic Communication and Public Relations, Pompeu Fabra University
-### Lecturer _Advanced Data Analyses_ 2022
-(_Análisis Avanzado de Datos_).
-MSc Communication Research, Pompeu Fabra University
-### Lecturer _Research and Evaluation for Practice_ 2021-2022
-MSc Strategic Communication and Public Relations, Pompeu Fabra University and University of Stirling (Joint Degree)
-### Supervisor _Master&#39;s Thesis Dissertations_ 2021
-(3 students) MSc Strategic Communication and Public Relations, and MSc Social Communication Research. Pompeu Fabra University
-### Lecturer _Quantitative Research and Experimental Methods in Communication_ 2021
-(_Métodos de investigación cuantitativa y experimental en comunicación_). MSc Social Communication Research, Pompeu Fabra University
-### Supervisor _Master&#39;s Thesis_ 2019-2020
-(9 students) MSc Communication Science: Entertainment Communication, University of Amsterdam
-### Tutorial Lecturer _Entertainment Communication_ 2020
-Bachelor&#39;s in Communication Science, University of Amsterdam
-### Tutorial Lecturer _The Media Landscape_ 2020
-Bachelor&#39;s in Communication Science, University of Amsterdam
-### Tutorial Lecturer _Research Workshop: Experiment_ 2020
-Bachelor&#39;s in Communication Science, University of Amsterdam
-### Teaching Assistant _Clashing Views on Media Effects_ 2019
+### Supervisor _Master's and Bachelor's Thesis Dissertations_ 2024 - 2026
+University of Salamanca
+### Supervisor _Thesis Dissertation_ 2025
+PhD in Communication, Pompeu Fabra University
+### Supervisor _Master's Thesis Dissertations_ 2022
+MSc Strategic Communication and Public Relations, Pompeu Fabra University
+### Supervisor _Master's Thesis Dissertations_ 2021
+MSc Strategic Communication and Public Relations, and MSc Social Communication Research. Pompeu Fabra University
+### Supervisor _Master's Thesis_ 2019-2020
 MSc Communication Science: Entertainment Communication, University of Amsterdam
-### Tutorial Lecturer _Introduction to Communication Science_ 2019
-Bachelor&#39;s in Communication Science, University of Amsterdam
-### Lecturer _Research and Evaluation for Practice_ 2019
-MSc Strategic Communication and Public Relations, Pompeu Fabra University and University of Stirling (Joint Degree)
-### Lecturer _Public Opinion and International Journalism_ 2019
-(_Opinión Pública y Periodismo Internacional_). Bachelor in International Relations, Rey Juan Carlos University
-### Teaching Assistant _Media Process_ 2015-2018
-(_Procesos y Efectos Mediáticos_). Bachelor in Audiovisual Communication, University of Salamanca
-### Teaching Assistant _Communication Research Methods_ 2015-2017
-(_Métodos de Investigación en Comunicación_). Bachelor in Audiovisual Communication, University of Salamanca
 
-
-# OTHERS
-=========
-### Journal reviewer
-_Computers in Human Behavior_, _Computers &amp; Education_, _Communication &amp; Society_, _Journal of Adolescence_, _Cuadernos.info_, _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_, _Profesional de la Información_.
