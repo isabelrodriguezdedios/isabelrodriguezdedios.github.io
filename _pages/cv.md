@@ -46,9 +46,9 @@ University of Salamanca, Spain
 Thesis: _Risks of Interactive Communication in Adolescents. Digital Literacy Diagnosis and Intervention._ Cum Laude distinction. International Doctorate mention
 ### Master&#39;s Degree in Applied Communication Research 2013
 Rey Juan Carlos University, Spain
-### Bachelor&#39;s Degree in Audiovisual Communication 2012
+### Bachelor's Degree in Audiovisual Communication 2012
 University of Salamanca, Spain
-### Bachelor&#39;s Degree in Journalism 2010
+### Bachelor's Degree in Journalism 2010
 University of Valladolid, Spain
 
 
@@ -57,14 +57,14 @@ University of Valladolid, Spain
 
 ### Research grant &quot;la Caixa&quot; Foundation 2025
 Flash Call to support research projects based on quantitative surveys - FS24-2B
-Project &quot;A Three-Wave Longitudinal Study on the Effects of Social Media on Adolescents’ Moral Disengagement 
+Project: A Three-Wave Longitudinal Study on the Effects of Social Media on Adolescents’ Moral Disengagement 
 Principal Investigator
 ### Research Fellow: Ramon y Cajal
 Research grant from the Spanish State Research Agency
 01/01/2023 – 
 ### Research grant &quot;la Caixa&quot; Foundation 2022
 Flash Call in Social Sciences 2021 – Technology and society
-Project &quot;Does social media use impact adolescents&#39; well-being state or the opposite? A longitudinal study on social media, loneliness, and personality traits
+Project: Does social media use impact adolescents' well-being state or the opposite? A longitudinal study on social media, loneliness, and personality traits
 Principal Investigator
 ### Postdoctoral Fellow: Juan de la Cierva Formación 2020-2022
 Research grant from the Spanish State Research Agency
@@ -76,6 +76,8 @@ Research grant from the Government of Castile and Leon and the European Social F
 
 # PUBLICATIONS: Journal articles
 ===========
+
+**Rodríguez-de-Dios, I.**, Pabian, S., & Vandebosch, H. (in press). Longitudinal Relations between Social Media Use and Adolescents’ Well-Being and Loneliness: Exploring Online Social Support and Cyberbullying as Mediators. _Communications: The European Journal of Communication Research_
 
 García-González, M. C., & **Rodríguez-de-Dios, I.** (2026). Deslizando sin Parar. Scrolling en TikTok y su Relación con la Percepción del Tiempo, el Tipo de Uso y el Bienestar en Jóvenes. _Anuario Electrónico de Estudios en Comunicación Social “Disertaciones”, 19_(2). https://doi.org/10.12804/revistas.urosario.edu.co/disertaciones/a.15709
 
@@ -95,7 +97,7 @@ Bosshard, S., Rodero, E., **Rodríguez-de-Dios, I.**, &amp; Brickner, J. (2024).
 
 Rodero, E., Mas, L., Larrea, O. **Rodríguez-de-Dios, I.** &amp; de la Mota, C. (2024). The relevance of communication between Alzheimer’s patients and their caregivers. Effective prosody strategies to improve communication. _Health Communication,39_(12), 2906–2919. https://doi.org/10.1080/10410236.2023.2292830
 
-Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2024). The 3D sound power of immersion processing and psychophysiological effects of binaural versus stereo audio stories. _Media Psychology, 27_(5),  715–736. https://doi.org/10.1080/15213269.2023.2281545
+Rodero, E. & **Rodríguez-de-Dios, I.** (2024). The 3D sound power of immersion processing and psychophysiological effects of binaural versus stereo audio stories. _Media Psychology, 27_(5),  715–736. https://doi.org/10.1080/15213269.2023.2281545
 
 **Rodríguez-de-Dios, I.** & González-de-Garay, B. (2024). Motherhood and sexuality in women’s football news: Effects on interest in the article, engagement and perception of the player. _International Journal of Sport Communication, 18_(1), 32-46. https://doi.org/10.1123/ijsc.2024-0156 
 
@@ -156,6 +158,8 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 
 # Conference Papers and Poster Presentations
 ===========
+
+**Rodríguez-de-Dios, I.** & van Oosten, J. M. F. (2026, September 8-11). TikTok and moral disengagement: A three-wave longitudinal study of hate speech exposure among adolescents [Paper presentation]. 11th European Communication Conference – ECC26, Brno, Czech Republic.
 
 **Rodríguez-de-Dios, I.**, Soto-Sanfiel, M. T., & Blanco-Fernández, V. (2026, June 28–July 2). Audiences’ responses toward non-binary portrayals: Results from an experimental analysis of prejudice reduction [Paper presentation]. IAMCR 2026, Galway, Ireland.
 
