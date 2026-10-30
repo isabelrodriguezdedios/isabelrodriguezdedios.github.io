@@ -164,6 +164,10 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 # Conference Papers and Poster Presentations
 ===========
 
+**Rodríguez-de-Dios, I.** (2026, October 20-23). Cyberbullying Victimization on Social Media by Adolescents’ Characteristics: Are There Differences? [Paper presentation]. Teem’26 Technological Ecosystems for Enhancing Multiculturality, Porto, Portugal.
+
+**Rodríguez-de-Dios, I.** (2026, October 20-23). From Activity to Passivity: Adolescents’ Social Media Use Patterns Across Platforms [Paper presentation]. Teem’26 Technological Ecosystems for Enhancing Multiculturality, Porto, Portugal.
+
 **Rodríguez-de-Dios, I.** & van Oosten, J. M. F. (2026, September 8-11). TikTok and moral disengagement: A three-wave longitudinal study of hate speech exposure among adolescents [Paper presentation]. 11th European Communication Conference – ECC26, Brno, Czech Republic.
 
 **Rodríguez-de-Dios, I.**, Soto-Sanfiel, M. T., & Blanco-Fernández, V. (2026, June 28–July 2). Audiences’ responses toward non-binary portrayals: Results from an experimental analysis of prejudice reduction [Paper presentation]. IAMCR 2026, Galway, Ireland.
