@@ -141,6 +141,8 @@ Piñeiro-Naval, V., Igartua, J. J. &amp; **Rodríguez-de-Dios, I.** (2015) La in
 # PUBLICATIONS: Books and Book Chapters
 ===========
 
+**Rodríguez-de-Dios. I.** (2026) El edu-entretenimiento como estrategia para la reducción de prejuicios contra las personas LGBTIQ+. En M. T. Soto-Sanfiel, E. Vázquez-Tapia y M.-J. Masanet (Eds.), _Perspectivas globales sobre género y sexualidades en los medios_ (pp. 411–428). Peter Lang. https://doi.org/10.3726/b22975
+
 **Rodríguez de Dios, I.** (2025). From Scrolling to Learning: Exploring Social Media’s Impact on Academic Performance Among Adolescents and Young People. In R. Molina Carmona, C.J.V. Arnedo, P. Compañ Rosique, F. García Peñalvo, A. García-Holgado, A. (eds), _Proceedings of TEEM 2024. TEEM2024 Lecture Notes in Educational Technology_ (pp. 805-812). Springer. doi:10.1007/978-981-96-5658-5_79
 
 Bartol Gutiérrez, A., Arroyo Plasencia, B., de Dios Pérez, I., **Rodríguez de Dios, I.**, Rodríguez Escobar, M., Flores Hernández, R., & Gómez Rodríguez, S. (Eds.). (2025). Nuevas voces en la investigación. Aportaciones interdisciplinares en ciencia, cultura y sociedad. Ediciones Universidad de Salamanca. https://doi.org/10.14201/0AQ0389
