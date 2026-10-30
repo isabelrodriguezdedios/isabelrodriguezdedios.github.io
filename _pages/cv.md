@@ -52,13 +52,12 @@ University of Salamanca, Spain
 University of Valladolid, Spain
 
 
-# RESEARCH grants and FELLOWSHIPS
+# RESEARCH grants and FELLOWSHIPS (PI)
 ===========
 
 ### Research grant Spanish Ministry of Science, Innovation and Universities 2026-2030
 Project: Social Media for Reducing Prejudice and Promoting Tolerance: Characteristics of LGTBIQ+ Content and its Impact on Well-being and Social Attitudes across Diverse Audiences (SM4RT) 
 Principal Investigator
-
 ### Research grant &quot;la Caixa&quot; Foundation 2025
 Flash Call to support research projects based on quantitative surveys - FS24-2B
 Project: A Three-Wave Longitudinal Study on the Effects of Social Media on Adolescents’ Moral Disengagement 
